@@ -176,6 +176,7 @@ def get_player_info():
                     "message": "Player information retrieved successfully",
                     "data": player_data,
                     "credits": "Dhiraj",
+                    "Telegram": "@Flash_X_Tech",
                     "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 })
 
